@@ -9,5 +9,5 @@ All information on pages has outbound links which direct the user to petions, bo
 #3. Reading Page, using bottom right link
 <img src="readingpage.jpg" width="200">
 #4. Reading Page, using bottom right link
-<img src="readingpage.jpg" width="200">
+<img src="filmspage.jpg" width="200">
 
